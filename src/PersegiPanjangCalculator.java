@@ -42,5 +42,8 @@ public class PersegiPanjangCalculator {
      */
     public static double hitungKelilingPersegiPanjang(double panjang, double lebar) {
         return 2 * (panjang + lebar);
+
+        System.out.printf("terima kasih");
+
     }
 }
